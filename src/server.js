@@ -22,4 +22,4 @@ app.use('/', express.static('public'));
 // });
 
 app.listen(3000);
-console.log("Server living port 3000");
+console.log("Server living http://localhost:3000");
